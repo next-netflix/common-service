@@ -1,0 +1,3 @@
+com.nextnetflix.commonservice.configurations.CommonJacksonAutoConfiguration
+com.nextnetflix.commonservice.configurations.CommonGrpcAutoConfiguration
+com.nextnetflix.commonservice.configurations.CommonWebClientAutoConfiguration
